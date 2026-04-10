@@ -40,7 +40,7 @@ knowledge-base/          Markdown docs (products, contracts, employees, company)
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-user>/cyberllm-rag.git
+git clone https://github.com/arneesh/CyberLLM-RAG.git
 cd cyberllm-rag
 
 # 2. Create .env from the example
